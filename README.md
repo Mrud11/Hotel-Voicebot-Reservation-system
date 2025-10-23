@@ -1,6 +1,4 @@
-# Hotel-Voicebot-Reservation-system
-Smart Voicebot Hotel Reservation System is an AI-powered hotel booking web app
-
+# Smart Voicebot Hotel Reservation System
 
 ## Overview
 Smart Voicebot Hotel Reservation System is an AI-powered hotel booking web app for India that enables you to **search and book hotels conversationally using voice or text**. The app combines Streamlit for a slick UI, OpenAI Whisper for speech-to-text, gTTS for text-to-speech, Perplexity's Sonar model for conversational AI, and SerpApi for reliable hotel data and price comparisons.

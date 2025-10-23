@@ -1,0 +1,10 @@
+streamlit
+requests
+python-dotenv
+pandas
+openpyxl
+gtts
+whisper
+numpy
+sounddevice
+wavio
