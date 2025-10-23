@@ -30,7 +30,7 @@ Smart Voicebot Hotel Reservation System is an AI-powered hotel booking web app f
 
 ### 1. Clone the repository:
 git clone <your-repository-url>
-cd smart-hotel-agent
+cd Hotel-Voicebot-Reservation-system
 
 
 ### 2. Install dependencies:
@@ -76,4 +76,5 @@ For help or feedback, contact me at [r.mrudula27@gmail.com].
 
 
 ---
+
 
