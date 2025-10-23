@@ -28,21 +28,21 @@ Smart Voicebot Hotel Reservation System is an AI-powered hotel booking web app f
 
 ## Installation
 
-# 1. Clone the repository:
+### 1. Clone the repository:
 git clone <your-repository-url>
 cd smart-hotel-agent
 
 
-# 2. Install dependencies:
+### 2. Install dependencies:
 pip install -r requirements.txt
 
 
-# 3. Create a `.env` file with your API keys:
+### 3. Create a `.env` file with your API keys:
 PERPLEXITY_API_KEY=your_perplexity_api_key
 SERPAPI_API_KEY=your_serpapi_api_key
 
 
-# 4. Run the app:
+### 4. Run the app:
 streamlit run app.py
 
 
@@ -76,3 +76,4 @@ For help or feedback, contact me at [r.mrudula27@gmail.com].
 
 
 ---
+
